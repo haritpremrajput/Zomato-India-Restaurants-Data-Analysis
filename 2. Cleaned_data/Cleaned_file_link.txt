@@ -1,1 +1,1 @@
-https://drive.google.com/drive/folders/1QGgijkR_exf51_svoA5Ou1GUqpCKEJOH?usp=sharing
+https://github.com/haritpremrajput/Zomato-India-Restaurants-Data-Analysis/releases/download/Cleaned_data/zomato_cleaned.csv
