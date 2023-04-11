@@ -7,9 +7,19 @@
 This project is designed to analyze restaurant data from the popular food delivery platform, 'Zomato'.
 It is intended for restaurant owners, managers, and marketing teams who want to understand customer behavior and preferences, optimize their menus, and improve their overall business performance. The project can also be useful for Zomato itself, as it can help the company identify areas for improvement in its platform and services.
 
-The snapshots of dashboards of the project created on different tools are given below
+
+
+## Tools Used
+
+![download](https://user-images.githubusercontent.com/82322259/231148445-5a527bd0-2b56-471e-9f2f-b933f6aed59b.png)                            ![download](https://user-images.githubusercontent.com/82322259/231148550-46f34ff2-5494-4969-8931-e5c84b77a29f.png)
+
+
+![download](https://user-images.githubusercontent.com/82322259/231148667-be014416-ffa6-493e-a245-e163ed11e917.png)                                                                                                                                                  ![download](https://user-images.githubusercontent.com/82322259/231148766-92cfb8d7-2434-4132-a781-e92317304847.png)
+
+
 
 ## Dashboards using Tableau
+The snapshots of dashboards of the project created on different tools are given below
 
 ![image](https://user-images.githubusercontent.com/82322259/231140533-276c5d13-c5cc-45a4-879e-336ed4ed7e3e.png)
 
